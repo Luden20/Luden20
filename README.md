@@ -1,11 +1,16 @@
-<h1 align="center">Hola 👋,soy Alfonso</h1>
-<h3 align="center">Estudiante apasionado de la ingeniería y la informática</h3>
+### Hola soy Alfonso :D
+## Estudiante apasionado de la ingeniería y la informática de la cato
+<p align="center">
+  <img src="https://puceapex.puce.edu.ec/web/museos/wp-content/uploads/sites/8/2022/05/logo-puce.png" alt="Logo PUCE" width="300"/>
+</p>
+
 
 - 📫 Como contactarme :D **chaflaalfonso@gmail.com**
 
 - 📄 Mira mi CV :D <a href="https://www.canva.com/design/DAF4Z5S66ec/UY7WIgakJmdr3w84ctaW0Q/view?utm_content=DAF4Z5S66ec&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8051c67898](https://www.canva.com/design/DAF4Z5S66ec/UY7WIgakJmdr3w84ctaW0Q/view?utm_content=DAF4Z5S66ec&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8051c67898">CV</a>
 
 - ⚡ Dato Curioso **Me gusta la pizza con piña**
+- Mira mis repositorios publicos
 
 <h3 align="left">Mis perfiles</h3>
 <p align="left">
