@@ -3,7 +3,7 @@
 
 - 📫 Como contactarme :D **chaflaalfonso@gmail.com**
 
-- 📄 Mira mi CV :D [https://www.canva.com/design/DAF4Z5S66ec/UY7WIgakJmdr3w84ctaW0Q/view?utm_content=DAF4Z5S66ec&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8051c67898](https://www.canva.com/design/DAF4Z5S66ec/UY7WIgakJmdr3w84ctaW0Q/view?utm_content=DAF4Z5S66ec&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8051c67898)
+- 📄 Mira mi CV :D <a href="https://www.canva.com/design/DAF4Z5S66ec/UY7WIgakJmdr3w84ctaW0Q/view?utm_content=DAF4Z5S66ec&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8051c67898](https://www.canva.com/design/DAF4Z5S66ec/UY7WIgakJmdr3w84ctaW0Q/view?utm_content=DAF4Z5S66ec&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8051c67898">CV</a>
 
 - ⚡ Dato Curioso **Me gusta la pizza con piña**
 
