@@ -1,8 +1,5 @@
 ### Hola soy Alfonso :D
 ## Estudiante apasionado de la ingeniería y la informática de la cato
-<p align="center">
-  <img src="https://puceapex.puce.edu.ec/web/museos/wp-content/uploads/sites/8/2022/05/logo-puce.png" alt="Logo PUCE" width="300"/>
-</p>
 
 
 - 📫 Como contactarme :D **chaflaalfonso@gmail.com**
